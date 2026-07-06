@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Best Casino Hotels in Canada</title>
+  <meta name="description" content="A simple informational page about casino hotels in Canada, including Fallsview Resort Casino and River Rock Casino Resort." />
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #0c1d2c;
+      color: #ffffff;
+      line-height: 1.7;
+    }
+
+    .page {
+      width: 100%;
+      min-height: 100vh;
+      padding: 40px 18px;
+    }
+
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+      background: rgba(255, 255, 255, 0.07);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-radius: 24px;
+      padding: 42px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.28);
+    }
+
+    h1 {
+      margin: 0 0 18px;
+      font-size: 42px;
+      line-height: 1.15;
+      letter-spacing: -0.5px;
+    }
+
+    h2 {
+      margin: 34px 0 12px;
+      font-size: 28px;
+      color: #f4c66d;
+    }
+
+    h3 {
+      margin: 26px 0 10px;
+      font-size: 21px;
+      color: #ffffff;
+    }
+
+    p {
+      margin: 0 0 18px;
+      font-size: 17px;
+      color: rgba(255, 255, 255, 0.9);
+    }
+
+    .intro {
+      font-size: 20px;
+      color: rgba(255, 255, 255, 0.95);
+      margin-bottom: 28px;
+    }
+
+    .section {
+      margin-top: 26px;
+      padding-top: 8px;
+    }
+
+    .disclaimer {
+      margin-top: 40px;
+      padding: 26px;
+      border-radius: 18px;
+      background: rgba(0, 0, 0, 0.22);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+    }
+
+    .disclaimer h2 {
+      margin-top: 0;
+    }
+
+    .footer-note {
+      margin-top: 28px;
+      font-size: 14px;
+      color: rgba(255, 255, 255, 0.7);
+      text-align: center;
+    }
+
+    @media (max-width: 768px) {
+      .page {
+        padding: 20px 12px;
+      }
+
+      .container {
+        padding: 26px 20px;
+        border-radius: 18px;
+      }
+
+      h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 24px;
+      }
+
+      h3 {
+        font-size: 19px;
+      }
+
+      p,
+      .intro {
+        font-size: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <article class="container">
+      <h1>Best Casino Hotels in Canada</h1>
+
+      <p class="intro">
+        Casino hotels in Canada blend excitement, luxury, and outstanding hospitality, attracting guests seeking both entertainment and relaxation.
+      </p>
+
+      <section class="section">
+        <h2>Fallsview Resort Casino - Niagara Falls, Ontario</h2>
+
+        <p>
+          Wellness and spa facilities in casino hotels provide the perfect escape for relaxation after an exciting evening of gaming. Entertainment plays a significant role in casino hotels, with live shows, concerts, and special events creating an unforgettable atmosphere. Whether casual players or high rollers, guests at casino hotels can enjoy a gaming environment tailored to their preferences.
+        </p>
+
+        <h3>Gaming</h3>
+        <p>
+          Fallsview Resort boasts an impressive gaming experience, with over 3,000 slot machines and 130 table games. From classic favorites like blackjack and roulette to modern variations and specialty games, there is something for every taste and skill level. The lively atmosphere of the upstairs and attentive staff create an immersive gaming experience that will keep visitors coming back for more.
+        </p>
+
+        <h3>Casino Hotel Amenities</h3>
+        <p>
+          Accommodations at Fallsview Resort are nothing short of luxurious, with spacious rooms and suites offering stunning views of Niagara Falls. Guests can enjoy a variety of amenities, including a full-service spa, fitness center, and indoor pool, providing the perfect blend of relaxation and fun during their stay.
+        </p>
+
+        <h3>Dining Options</h3>
+        <p>
+          With more than a dozen on-site dining options, Fallsview Resort offers a culinary experience for every taste. From fine dining restaurants serving gourmet dishes to casual eateries offering quick bites and comfort food, guests can sample a variety of flavors and cuisines without leaving the resort.
+        </p>
+
+        <h3>General Atmosphere</h3>
+        <p>
+          Located in the heart of Niagara Falls, Fallsview Resort exudes an atmosphere of excitement and sophistication. Whether you're exploring the bustling upstairs, relaxing in the spa, or dining at one of the resort's acclaimed restaurants, you'll be surrounded by the natural beauty and vibrant energy that makes Niagara Falls a world-renowned destination.
+        </p>
+      </section>
+
+      <section class="section">
+        <h2>River Rock Casino Resort - Richmond, British Columbia</h2>
+
+        <h3>Gaming</h3>
+        <p>
+          River Rock Resort offers a wide variety of gaming options, with over 1,100 slot machines and 39 table games to choose from. From classic games like blackjack and poker to modern variations and electronic slots, there is something for every type of player. The spacious layout and lively atmosphere create an exciting gaming environment for all ages.
+        </p>
+
+        <h3>Casino Hotel Amenities</h3>
+        <p>
+          River Rock Resort accommodations are designed to provide guests with the utmost comfort and luxury. The casino hotel offers stylishly appointed rooms and suites, along with a variety of amenities, including a fitness center, indoor pool, and spa. Guests can also take advantage of the resort's convenient location, which provides easy access to shopping, dining, and entertainment in Richmond and beyond.
+        </p>
+
+        <p>
+          River Rock Casino Resort in Richmond, British Columbia offers a wide variety of gaming options, with over 1,100 slot machines and 39 table games to choose from.
+        </p>
+      </section>
+
+      <section class="disclaimer">
+        <h2>Disclaimer</h2>
+
+        <p>
+          The information provided on this website is for general informational and promotional purposes only. While we strive to ensure accuracy, all content—including room rates, gaming options, amenities, promotions, and event details—is subject to change without notice. The casino hotel makes no guarantees regarding the completeness, reliability, or timeliness of any information presented.
+        </p>
+
+        <p>
+          All guests must meet the minimum legal age requirements for gambling in the applicable jurisdiction. Valid identification may be required. Gambling involves financial risk, and guests are encouraged to play responsibly. If you or someone you know may have a gambling problem, please seek help from a certified support organization.
+        </p>
+
+        <p>
+          The casino hotel is not responsible for any losses, damages, or liabilities arising from the use of this website or participation in gaming or hotel activities. External links, if provided, are offered for convenience only; we do not endorse or control the content of third-party sites.
+        </p>
+
+        <p>
+          By using this website, you acknowledge and agree to these terms. For full terms, conditions, and policies, please contact the casino hotel directly or refer to the appropriate policy pages.
+        </p>
+      </section>
+
+      <p class="footer-note">
+        18+ only. Please play responsibly.
+      </p>
+    </article>
+  </main>
+</body>
+</html>
